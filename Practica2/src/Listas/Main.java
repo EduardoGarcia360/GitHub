@@ -19,5 +19,5 @@ public class Main {
 		
 		temporal.getNodo().SiguienteNodo(tercero);
 	}
-
+Problem? :troll:
 }
